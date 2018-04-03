@@ -1,0 +1,47 @@
+\documentclass[english]{article}
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{luainputenc}
+\usepackage{babel}
+\begin{document}
+38. Zweiwegeausbreitung bei der Fahrzeugkommunikation(20\%)
+
+\emph{\footnotesize{}Zwei selbstfahrende Autos fahren hintereinander.
+Sie kommunizieren auf 5.9 GHz und tauschen sicherheitsrelevante Information
+über die Antennen auf ihrem Dach aus. Die Sendeleistung beträgt 10mW.
+Die vom Sender ausgesendete Welle erreicht den Empfänger über zwei
+Wege .Ein Teil der Welle wird direkt über die Sichtverbindung empfangen,
+außerdem wird ein Teil der Welle von der Straße perfekt reflektiert.Sowohl
+Sender als auch Empfänger haben der Einfachheit halber eine perfekt
+isotrope Antenne.Die Höhe des Autos(h) ist 1.5 m. Die Abstand(a) ist
+5 m.}{\footnotesize \par}
+
+\emph{\footnotesize{}1.(2\%)Berechnen Sie die emfangene Leistung,welche
+über den direkten Pfad ankommt! }{\footnotesize \par}
+
+\emph{\footnotesize{}2.(4\%)Berücksichtigen Sie nun zusätzlich die
+Welle,die von der Straße refektiert wird(Reflexionsfaktor rho = -0.75).
+Rund um 5.9 GHz entsteht dadurch frequenzselektiver Schwund. Berechnen
+Sie die Tiefe der Schwundlöcher (Hmax /Hmin) in dB. }{\footnotesize \par}
+
+\emph{\footnotesize{}3.(3\%)Wie groß ist der Laufzeitunterschied zwischen
+den beiden Ausbreitungsfaden. Berechnen Sie den Abstand der Notchfrequenzen
+des daraus entstehenden frequenzelektiven Schwundes!}{\footnotesize \par}
+
+\emph{\footnotesize{}4.(3\%)Gegen Sie die Stoßantwort(impluse response)
+des Funkkanals an!}{\footnotesize \par}
+
+\emph{\footnotesize{}5.(6\%)Betrachten Sie den Abstand zwischen den
+Fahrzeugen nun als Variable. Berechnen und zeichnen Sie die Empfangsleistung
+als Funktion des Fahrzeugabstandes a (Empfangsleistung in dB).Berücksichtigeb
+Sie dabei die Einflüsse der Freiraumausbreitung und die durch die
+Zweiwegeausbreitung entstehenden schwundlöcher.Einflüsse der Fahrzeugkarosserie
+können vernachlässigt werden. }{\footnotesize \par}
+
+\emph{\footnotesize{}6.(2\%)Zweiwegeausbreitung(Two-Ray) wird tatsächlich
+als Modell für Funkkanäle in der Fahrzeugkommunikation verwendet.In
+dem Paper zeigen die Autoren, dass die Zweiwegausbereitung ein gutes
+Modell für Messungen in ländlichen Gebieten und auf Autobahnen ist,
+In städtischen Gebieten beschreibt die Zweiwegausbreitung die Funkkanäle
+jedoch nicht adäquat.Warum nicht? Welches Modell würden Sie stattdessen
+verwenden?}
+\end{document}
